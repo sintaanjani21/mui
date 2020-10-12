@@ -1,0 +1,77 @@
+header h1{
+	font-size: 60px;
+	text-align: center;
+}
+header ul {
+	float: left;
+}
+header ul li {
+	padding: 15px;
+	display: inline-block;
+	font-size: 20px;
+}
+header ul li a{
+	transition:0,3s;
+}
+header ul li a:hover {
+	color: #B8860B;
+}
+a {
+	text-decoration: none;
+}
+.hr {
+	height: 3px;
+	background-color: black;
+}
+.courses {
+    left: 45px;
+	width: 659px;
+	border-right: 1px solid #eeeeee;
+	margin-top: 50px;
+}
+
+article {
+	clear: both;
+	overflow: auto;
+	width: 100%;
+}
+hgroup {
+	margin-top: 40px;
+}
+figure {
+	float: left;
+	width: 307px;
+	height: 220px;
+	padding: 5px;
+	margin: 20px;
+	border: 1px solid #eeeeee;
+}
+figcaption {
+	font-size: 90%;
+	text-align: left;
+}
+aside {
+	width: 230px;
+	left: 50px;
+	padding: 0px 0px 0px 20px;}
+aside section a {
+	display: block;
+	padding: 10px;
+	border-bottom: 1px solid #eeeeee;}
+aside section a:hover {
+	color: #985d6a;
+	background-color: #efefef;}
+a {
+	color: #de6581;
+	text-decoration: none;}
+h1, h2, h3 {
+	font-weight: normal;}
+h2 {
+	margin: 10px 0px 5px 0px;
+	padding: 0px;}
+h3 {
+	margin: 0px 0px 10px 0px;
+	color: #de6581;}
+aside h2 {
+	padding: 30px 0px 10px 0px;
+	color: #de6581;}
